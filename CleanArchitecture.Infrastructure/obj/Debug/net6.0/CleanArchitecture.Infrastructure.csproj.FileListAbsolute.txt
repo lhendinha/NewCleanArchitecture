@@ -1,0 +1,15 @@
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Infrastructure/bin/Debug/net6.0/CleanArchitecture.Infrastructure.deps.json
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Infrastructure/bin/Debug/net6.0/CleanArchitecture.Infrastructure.dll
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Infrastructure/bin/Debug/net6.0/CleanArchitecture.Infrastructure.pdb
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Infrastructure/bin/Debug/net6.0/CleanArchitecture.Domain.dll
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Infrastructure/bin/Debug/net6.0/CleanArchitecture.Domain.pdb
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Debug/net6.0/CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Debug/net6.0/CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Debug/net6.0/CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Debug/net6.0/CleanArchitecture.Infrastructure.AssemblyInfo.cs
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Debug/net6.0/CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Debug/net6.0/CleanArchitecture.Infrastructure.csproj.CopyComplete
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Debug/net6.0/CleanArchitecture.Infrastructure.dll
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Debug/net6.0/refint/CleanArchitecture.Infrastructure.dll
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Debug/net6.0/CleanArchitecture.Infrastructure.pdb
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Debug/net6.0/ref/CleanArchitecture.Infrastructure.dll

@@ -1,0 +1,15 @@
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Application/bin/Debug/net6.0/CleanArchitecture.Application.deps.json
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Application/bin/Debug/net6.0/CleanArchitecture.Application.dll
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Application/bin/Debug/net6.0/CleanArchitecture.Application.pdb
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Application/bin/Debug/net6.0/CleanArchitecture.Domain.dll
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Application/bin/Debug/net6.0/CleanArchitecture.Domain.pdb
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net6.0/CleanArchitecture.Application.csproj.AssemblyReference.cache
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net6.0/CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net6.0/CleanArchitecture.Application.AssemblyInfoInputs.cache
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net6.0/CleanArchitecture.Application.AssemblyInfo.cs
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net6.0/CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net6.0/CleanArchitecture.Application.csproj.CopyComplete
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net6.0/CleanArchitecture.Application.dll
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net6.0/refint/CleanArchitecture.Application.dll
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net6.0/CleanArchitecture.Application.pdb
+/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net6.0/ref/CleanArchitecture.Application.dll

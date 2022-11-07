@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KPk/xFTJTHtgRcsm3drJaU0R4hidA/nZui2T4s/zt0AyDqfZdhDhkgROX1guWV5MiEY3VuhiRjTpDyiU/E3sjg==",
+  "success": true,
+  "projectFilePath": "/Users/pedrosousa/Desktop/CleanArchitecture/CleanArchitecture.Application/CleanArchitecture.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/pedrosousa/.nuget/packages/fluentvalidation/11.2.2/fluentvalidation.11.2.2.nupkg.sha512",
+    "/Users/pedrosousa/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/pedrosousa/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
